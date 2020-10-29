@@ -2,7 +2,7 @@ Problem description: Point Of Sale Code Kata.txt
 
 Implementation.
 Source code: https://github.com/andtkach/PointOfSaleCodeKata
-Demo: 
+Demo: https://youtu.be/RtE9XtojoGA
 
 There are 3 price calculation strategies:
 1. Simple. Where not discounts applied
