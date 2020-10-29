@@ -1,4 +1,6 @@
-﻿namespace PoSConsole
+﻿using PoSLibrary.Bucket.ExtPricesBucketWithDivide;
+
+namespace PoSConsole
 {
     using System;
     using PoSLibrary;
