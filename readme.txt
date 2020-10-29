@@ -1,6 +1,9 @@
 Problem description: Point Of Sale Code Kata.txt
 
 Implementation.
+Source code: https://github.com/andtkach/PointOfSaleCodeKata
+Demo: 
+
 There are 3 price calculation strategies:
 1. Simple. Where not discounts applied
 2. Replace. Where we replace items in the bucket with a single set of items with discount
